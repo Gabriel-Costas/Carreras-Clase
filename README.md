@@ -84,3 +84,20 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 >> - Ejemplos prácticos
 >> - Macros vs. Templates
 >> - Añadidos archivos con prácticas de lo explicado en el tema
+
+### 13/07/2023
+- Curso: Programación genérica y concurrente
+> - Entrada del temario: Threading. 27m
+>> - Introducción
+>> - Librería thread STL
+>> - Control de flujo
+>> - Casos de uso
+> 
+> - Entrada del temario: Procesos. 23m
+>> - Introducción
+>> - Comunicación entre procesos
+>> - Thread vs. procesos
+>> - Añadidos archivos de ejemplo y práctica del tema
+> 
+> - Examen completado. Screenshot del diploma añadido
+> - ***Curso finalizado***
