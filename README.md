@@ -101,3 +101,15 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 > 
 > - Examen completado. Screenshot del diploma añadido
 > - ***Curso finalizado***
+
+### 15/07/2023
+- Curso: Patrones de diseño e interfaces en C++
+> - Entrada del temario: Introducción
+> - Entrada del temario: STL. 46m
+>> - Introducción
+>> - Contenedores secuenciales
+>> - Contenedores asociativos
+>> - Iteradores
+>> - Smart pointers
+>> - Librerías
+>> - Añadidos archivos de ejemplo y práctica del tema
