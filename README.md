@@ -113,3 +113,20 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 >> - Smart pointers
 >> - Librerías
 >> - Añadidos archivos de ejemplo y práctica del tema
+ 
+### 17/07/2023
+- Curso: Patrones de diseño e interfaces en C++
+> - Entrada del temario: Interfaces. 10m
+>> - Clase abstracta
+>> - Usos de las interfaces
+> 
+> - Entrada del temario: Patrones de diseño. 33m
+>> - Introducción
+>> - Patrones creacionales
+>> - Patrones estructurales
+>> - Patrones de comportamiento
+> 
+> - Entrada del temario: Organización de código. 9m
+>> - Resumen. Creando un videojuego
+>>> - Añadido codigo del juego puesto de ejemplo con screenshots
+> - Examen no superado. 75%. Vuelvo al repaso
