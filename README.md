@@ -130,3 +130,9 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 >> - Resumen. Creando un videojuego
 >>> - Añadido codigo del juego puesto de ejemplo con screenshots
 > - Examen no superado. 75%. Vuelvo al repaso
+ 
+### 18/07/2023
+- Curso: Patrones de diseño e interfaces en C++
+> - Examen completado. Screenshot del diploma añadido
+> - ***Curso finalizado***
+> ***Carrera completada***
