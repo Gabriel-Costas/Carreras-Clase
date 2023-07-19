@@ -7,7 +7,6 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 - Comienzo la carrera de desarrollador en C++  
 - He obviado los primeros cursos, ya que son cosas ya explicadas en clase (Introducción a la programación, Principios de POO)  
 - Curso: Introducción a C++  
->
 > - Entrada del temario: Introducción a C++. 31m
 >> - Introducción a C++  
 >> - Instalación del IDE Zinjai  
@@ -36,7 +35,6 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
  
 - He obviado el curso de GIT, ya que fue explicado en clase  
 - Curso: Programación orientada a objetos con C++  
- 	
 > - Entrada del temario: Introducción  
 > - Entrada del temario: Memoria. 18m  
 >> - Stack vs. Heap  
@@ -128,11 +126,24 @@ Código y capturas de los ejercicios de las carreras de Openwebinars 2023
 > 
 > - Entrada del temario: Organización de código. 9m
 >> - Resumen. Creando un videojuego
->>> - Añadido codigo del juego puesto de ejemplo con screenshots
-> - Examen no superado. 75%. Vuelvo al repaso
+>>> - Añadido codigo del juego puesto de ejemplo con screenshots 
+> - Examen no superado. 75%. Vuelvo al repaso 
  
 ### 18/07/2023
-- Curso: Patrones de diseño e interfaces en C++
-> - Examen completado. Screenshot del diploma añadido
-> - ***Curso finalizado***
-> ***Carrera completada***
+- Curso: Patrones de diseño e interfaces en C++ 
+> - Examen completado. Screenshot del diploma añadido 
+> - ***Curso finalizado*** 
+
+### 19/07/2023
+Empiezo la revisión de los cursos de temas ya dados en clase para completar la carrera 
+- Curso: Introducción a la programación con pseudocódigo 
+> - Entrada del temario: Introducción a la programación. 49m
+>> - Presentación del profesor y curso
+>> - Resolución de problemas 
+>> - Análisis del problema 
+>> - Diseño de algoritmos 
+> - Entrada del temario: Entorno de trabajo: PSeInt. 13m 
+>> - Instalación de PSeInt en Windows
+>> - Instalación de PSeInt en Linux 
+> - Entrada del temario: Pseudocódigo introdución. 112m 
+>> - Estructura del algoritmo 
