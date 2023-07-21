@@ -147,3 +147,25 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Instalación de PSeInt en Linux 
 > - Entrada del temario: Pseudocódigo introdución. 112m 
 >> - Estructura del algoritmo 
+
+### 21/07/2023
+- Curso: Introducción a la programación con pseudocódigo 
+> - Entrada del temario: Pseudocódigo introdución 
+>> - Tipos de datos simples
+>> - Variables
+>> - Operadores y expresiones
+>> - Asignación de variables
+>> - Entrada y salida de información
+>> - Otras instrucciones
+>> - Funciones matemáticas
+>> - Funciones de cadenas de texto
+>> - Nuestro primer pseudocódigo completo
+>> - Ejecución paso a paso 
+>>> - Agregados ejercicios del 1 al 20 de pseudocodigo secuencial
+>> - Corrección de ejercicios 3, 10, 15, 17 y 18 
+> 
+> - Entrada del temario: Pseudocódigo, Estructuras alternativas
+>> - Estructura alternativa: Si 
+>> - Estructura alternativa: Segun
+>>> - Agregados ejercicios del 1 al 20 de pseudocódigo con alternativas
+>> - Corrección de ejercicios 2, 5, 9 y 13
