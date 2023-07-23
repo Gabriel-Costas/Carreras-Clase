@@ -150,7 +150,7 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 
 ### 21/07/2023
 - Curso: Introducción a la programación con pseudocódigo 
-> - Entrada del temario: Pseudocódigo introdución 
+> - Entrada del temario: Pseudocódigo introdución
 >> - Tipos de datos simples
 >> - Variables
 >> - Operadores y expresiones
@@ -164,8 +164,27 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >>> - Agregados ejercicios del 1 al 20 de pseudocodigo secuencial
 >> - Corrección de ejercicios 3, 10, 15, 17 y 18 
 > 
-> - Entrada del temario: Pseudocódigo, Estructuras alternativas
+> - Entrada del temario: Pseudocódigo, Estructuras alternativas, 29
 >> - Estructura alternativa: Si 
 >> - Estructura alternativa: Segun
 >>> - Agregados ejercicios del 1 al 20 de pseudocódigo con alternativas
 >> - Corrección de ejercicios 2, 5, 9 y 13
+
+### 23/07/2023 
+- Curso: Introducción a la programación con pseudocódigo 
+> - Entrada del temario: Pseudocódigo, Estructuras repetitivas, 63m 
+>> - Mientras 
+>> - Repetir-Hasta Que 
+>> - Para 
+>> - Uso específico de variables 
+>>> - Agregados ejercicios del 1 al 20 de pseudocodigo repetitivo 
+>> - Corrección de ejercicios 1,3,7,10 y 11 
+>>> - Agregados ejercicios del 1 al 10 de pseudocodigo con cadenas 
+>> - Corrección de ejercicios 1, 2 y 6 
+> 
+> - Entrada del temario: Arreglos. 42m 
+>> - Estructuras de datos: Arreglos (array) 
+>> - Vectores 
+>> - Tablas 
+>>> - Agregados ejercicios del 1 al 15 de arrays 
+>> - Corrección de ejercicios 3, 4, 5, 8 y 10 
