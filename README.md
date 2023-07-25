@@ -188,3 +188,21 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Tablas 
 >>> - Agregados ejercicios del 1 al 15 de arrays 
 >> - Corrección de ejercicios 3, 4, 5, 8 y 10 
+ 
+### 25/07/2023 
+- Curso: Introducción a la programación con pseudocódigo 
+> - Entrada del temario: Programación estructurada. 43m 
+>> - Programación estructurada
+>> - Funciones y procedimientos
+>> - Funciones recursivas
+>>> - Agregados ejercicios del 1 al 15 de funciones 
+>> - Corrección de ejercicios 2, 3, 5, 7 y 11
+> 
+> - Entrada del temario: Lenguajes de programación. 37m 
+>> - Introducción 
+>> - Programas traductores
+>> - Compilación y ejecución de un lenguaje compilado: C++ 
+>> - Compilación y ejecución de un programa java 
+>> - Ejecución de programas interpretados con Python 
+> - Examen completado. Screenshot agregado 
+- ***Curso finalizado*** 
