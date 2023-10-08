@@ -206,3 +206,34 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Ejecución de programas interpretados con Python 
 > - Examen completado. Screenshot agregado 
 - ***Curso finalizado*** 
+
+## Python
+
+### 05/10/2023
+-Curso: Python 3 desde cero
+> - Entrada del temario: Introducción al curso. 4m
+>> - Presentación
+>
+> - Entrada del temario: Introducción a la programación. 20m
+>> - Análisis de problemas y diseño de algoritmos
+>> - Introducción a los lenguajes de programación
+>> - Introducción a Python 3
+>
+> - Entrada del temario: Introducción a Python 3. 15m
+>> - Instalación de Python 3
+>> - Estructura del programa
+>> - Mi primer programa en Python 3
+>
+> - Entrada del temario: Tipos de datos básicos. 69m
+>> - Datos y tipos de dato
+>> - Datos numéricos
+>> - Datos booleanos
+>> - Trabajando con variables
+
+### 07/10/2023
+-Curso: Python 3 desde cero
+>> - Entrada y salida de estándar
+>> - Introducción a cadenas de caracteres
+>> - De pseudocódigo a Python 3
+>>> - Agregados ejercicios del 1 al 20
+>> - Corrección de ejercicios 3, 10, 15, 17 y 18
