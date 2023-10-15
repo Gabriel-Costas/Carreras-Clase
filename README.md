@@ -210,7 +210,7 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 ## Python
 
 ### 05/10/2023
--Curso: Python 3 desde cero
+- Curso: Python 3 desde cero
 > - Entrada del temario: Introducción al curso. 4m
 >> - Presentación
 >
@@ -231,9 +231,69 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Trabajando con variables
 
 ### 07/10/2023
--Curso: Python 3 desde cero
+- Curso: Python 3 desde cero
 >> - Entrada y salida de estándar
 >> - Introducción a cadenas de caracteres
 >> - De pseudocódigo a Python 3
 >>> - Agregados ejercicios del 1 al 20
 >> - Corrección de ejercicios 3, 10, 15, 17 y 18
+
+### 09/10/2023
+- Curso: Python 3 desde cero
+> - Entrada del temario: Estructuras de control. 66m
+>> - Estructuras de control alternativas
+>>> - Agregados ejercicios del 1 al 20
+>> - Corrección de ejercicios 2, 5, 9 y 13
+>> - Estructuras de control repetitivas: While
+>> - Estructuras de control repetitivas: For
+>> - Uso específico de variables: Contadores, acumuladores e indicadores
+>>> - Agregados ejercicios del 1 al 7
+
+### 10/10/2023
+- Curso: Python 3 desde cero
+>>> - Agregados ejercicios del 8 al 20
+>> - Corrección de ejercicios 1, 3, 7, 10 y 11
+> 
+> - Entrada del temario: Tipos de datos secuencias. 92m
+>> - Cadenas de caracteres
+>> - Las cadenas de caracteres son inmutables
+>> - Métodos principales de Cadenas
+>>> - Agregados ejercicios del 1 al 10
+>> - Corrección de ejercicios 2, 3, 4 y 9
+
+### 14/10/2023
+- Curso: Python 3 desde cero
+>> - Listas
+>> - Las listas son mutables
+>> - Métodos principales de listas
+>> - Tuplas
+>>> - Agregados ejercicios del 1 al 18
+>> - Corrección de ejercicios 1, 3, 8 y 10
+>
+> - Entrada del temario: Tipos de datos mapas. 19m
+>> - Diccionario
+>> - Metodos principales de diccionarios
+>>> - Agregados ejercicios del 1 al 5
+>> - Corrección de ejercicios 2 y 3
+>
+> - Entrada del temario: Excepciones. 10m
+>> - Excepciones
+
+### 15/10/2023
+- Curso: Python 3 desde cero
+> - Entrada del temario: Introducción a los módulos. 5m
+>> - Introducción a los módulos
+> - Entrada del temario: Programación estructurada. 30m
+>> - Introducción a las funciones
+>> - Funciones recursivas
+>>> - Agregados ejercicios del 1 al 15
+>> - Corrección de ejercicios 2, 5 y 11
+>
+> - Entrada del temario: Programación orientada a objetos. 38m
+>> - Introducción a la programación orientada a objetos
+>> - Encapsulamiento en la programación orientada a objetos
+>> - Herencia y delegación
+>> - Ejercicios de programación orientada a objetos
+>>> -Agregados los ejercicios hechos con el profesor y los ejercicios extra del 1 al 8
+> - Examen completado. Screenshot agregado
+> - ***Curso finalizado***
