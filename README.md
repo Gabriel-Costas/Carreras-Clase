@@ -297,3 +297,16 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >>> -Agregados los ejercicios hechos con el profesor y los ejercicios extra del 1 al 8
 > - Examen completado. Screenshot agregado
 > - ***Curso finalizado***
+
+### 18/10/2023
+- Taller: Consumo de servicios Restful con Python requests. 45m
+> - Características principales de los servicios web API restful
+> - Formas de autentificación para conectar a los servicios web API restful
+> - Características fundamentales del lenguaje de marcas JSON
+> - Uso de la librería requests de python que nos permite realizar peticiones HTTP
+> - Tratamiento de información en JSON desde Python
+>> - Observaciones:
+>>> - Dos de las páginas de ejemplo que usa para hacer la request a la api no las use o no las pude usar. Una ya no da claves gratuitas y la otra pide datos personales incluso a usuarios particulares. Hice los programas, pero no tengo ejemplos de ellos corriendo
+>>> - El profesor utiliza un sistema Linux, pero estaría bien que indicasen la forma de hacerlo con comandos de Windows, para facilitar el seguimiento del Taller
+>> - Adjunto programas del taller y Screenshots
+> - ***Taller finalizado***
