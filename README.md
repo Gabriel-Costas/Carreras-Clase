@@ -305,8 +305,20 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 > - Características fundamentales del lenguaje de marcas JSON
 > - Uso de la librería requests de python que nos permite realizar peticiones HTTP
 > - Tratamiento de información en JSON desde Python
+> - Creación de entornos virtuales
 >> - Observaciones:
 >>> - Dos de las páginas de ejemplo que usa para hacer la request a la api no las use o no las pude usar. Una ya no da claves gratuitas y la otra pide datos personales incluso a usuarios particulares. Hice los programas, pero no tengo ejemplos de ellos corriendo
 >>> - El profesor utiliza un sistema Linux, pero estaría bien que indicasen la forma de hacerlo con comandos de Windows, para facilitar el seguimiento del Taller
 >> - Adjunto programas del taller y Screenshots
+> - ***Taller finalizado***
+
+### 20/10/2023
+- Taller: Trabajando la concurrencia en Python. 43m
+> - Diferencia entre un thread y un proceso
+> - Principales recursos que nos da python para utilizar threads y procesos
+> - Utilizar threads y procesos para mejorar la performance de una aplicación
+>> - Observaciones:
+>>> - El ultimo ejercicio no pude ejecutarlo por un problema que me surge, que no me detecta uno de los archivos pese a que están todos exactamente igual que en el ejemplo. He seguido el taller de todas formas, pero no tengo ejemplos mios del programa en ejecución
+>> - Adjunto el programa del taller y Screenshots
+>> - elimino las carpetas de entorno virtual de los archivos subidos para aligerarlos
 > - ***Taller finalizado***
