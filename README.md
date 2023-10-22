@@ -322,3 +322,13 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Adjunto el programa del taller y Screenshots
 >> - elimino las carpetas de entorno virtual de los archivos subidos para aligerarlos
 > - ***Taller finalizado***
+
+### 22/10/2023
+- Taller: Herramientas de Testing para Python. 49m
+> - Principales herramientas Python para testing
+> - Pytest
+> - Hypothesis
+> - Locust
+>> - Instalación del IDE PyCharm Community
+>> - Adjunto el programa del Taller y screenshots
+> - ***Taller finalizado***
