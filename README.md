@@ -172,7 +172,7 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 
 ### 23/07/2023 
 - Curso: Introducción a la programación con pseudocódigo 
-> - Entrada del temario: Pseudocódigo, Estructuras repetitivas, 63m 
+> - Entrada del temario: Pseudocódigo, Estructuras repetitivas. 63m 
 >> - Mientras 
 >> - Repetir-Hasta Que 
 >> - Para 
@@ -332,3 +332,14 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Instalación del IDE PyCharm Community
 >> - Adjunto el programa del Taller y screenshots
 > - ***Taller finalizado***
+
+### 27/10/2023
+- Taller: Testing en Python. 56m
+> - Python Testing Module
+> - Técnicas para hacer testing en Python
+> - Librerías de testing en Python (pytest, tox, mock..)
+>> - Observaciones:
+>>> - El programa de Jokes no lo pude ejecutar por un error en el código que, por lo que pude averiguar, parece que viene de una versión más antigua de una librería. Agrego Screenshot
+>> - Adjunto el programa del taller, screenshots y certificados de los talleres
+> - ***Taller finalizado***
+- ***Carrera completada***
