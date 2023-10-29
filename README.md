@@ -343,3 +343,14 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Adjunto el programa del taller, screenshots y certificados de los talleres
 > - ***Taller finalizado***
 - ***Carrera completada***
+
+## Python para Data Science
+
+### 29/10/2023
+- Curso: Visualización de datos con Python
+> - Entrada del temario: Introducción. 24m
+>> - Presentación
+>> - Importancia de la Visualización
+>> - Tipos de gráficos
+>> - Preparación del entorno
+>>> - Instalación de Anaconda y creación de un entorno con librerías específicas para el curso (pandas, seaborn, numpy, matplotlib...)
