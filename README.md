@@ -354,3 +354,28 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Tipos de gráficos
 >> - Preparación del entorno
 >>> - Instalación de Anaconda y creación de un entorno con librerías específicas para el curso (pandas, seaborn, numpy, matplotlib...)
+
+### 02/11/2023
+- Curso: Visualización de datos con Python
+> - Entrada del temario: Matplotlib. 80m
+>> - Mi primer gráfico
+>> - Gráficos básicos (Parte I)
+>> - Gráficos básicos (Parte II)
+>> - Subplots
+>> - Leyendas
+>> - Imágenes
+>> - Ejercicios
+>>> - Añadidos ejemplos y ejercicios
+
+### 05/11/2023
+- Curso: Visualización de datos con Python
+> - Entrada del temario: Seaborn. 56m
+>> - Gráficos relacionales
+>> - Gráficos categóricos
+>> - Distribuciones
+>> - Gráficos de regresión
+>> - Gráficos múltiples
+>> - Estilos y colores
+>> - Ejercicios
+>> - Examen superado
+> - Curso finalizado
