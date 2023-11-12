@@ -379,3 +379,25 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Ejercicios
 >> - Examen superado
 > - Curso finalizado
+
+### 08/11/2023
+- Curso: Tratamiento de datos con Pandas
+> - Entrada del temario: Introduccion. 17m
+>> - Presentación
+>> - Conociendo Pandas
+>> - Preparación del entorno
+
+> - Entrada del temario: Estructuras de datos. 102m
+>> - Series
+>> - DataFrames
+
+### 12/11/2023
+- Curso: Tratamiento de datos con Pandas
+>> - Lectura y escritura
+>> - Indexado y selección de datos (Parte I)
+>> - Indexado y selección de datos (Parte II)
+>> - MultiIndex
+>> - Timeseries y Timestamp
+>> - Timedelta
+>> - Ejercicios
+>>> - Ejemplos y ejercicios añadidos
