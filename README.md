@@ -401,3 +401,10 @@ Empiezo la revisión de los cursos de temas ya dados en clase para completar la 
 >> - Timedelta
 >> - Ejercicios
 >>> - Ejemplos y ejercicios añadidos
+
+### 19/11/2023
+- Curso: Tratamiento de datos con Pandas
+> - Entrada del temario: Operaciones con DataFrames. 89m
+>> - Operaciones basicas
+>> - Datos missing
+>> - Operaciones entre DataFrames
